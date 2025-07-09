@@ -14,6 +14,6 @@ This project presents a visual dashboard for analyzing sales data across markets
 - **Power BI** for dashboard creation
 - Sample dataset from Microsoft or similar business dataset
 
-## 📷 Dashboard Snapshot
+## 📷 Dashboard Screenshot
 ![Sales Dashboard](Sales%20Insights%20Dashboard.png)
 
